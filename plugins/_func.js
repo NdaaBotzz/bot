@@ -19,8 +19,8 @@ handler.all = async function (m) {
 
         // Ini untuk command creator/owner
         global.kontak2 = [
-            [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'no@gmail.com', true],
-            [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'rlxfly.uwu@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+            [owner[0], await this.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'ndaacy@gmail.com', true],
+            [owner[1], await this.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'ndaacy@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
 
         // ucapan ini mah
@@ -41,7 +41,7 @@ handler.all = async function (m) {
                 isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
                 externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: false,
-                    title: "【 ＭＡＲＩＮ　ＫＩＴＡＧＡＷＡ 】",
+                    title: "NdaaBotz-Md",
                     body: '\t' + me,
                     mediaUrl: ' ',
                     description: '',
@@ -57,7 +57,7 @@ handler.all = async function (m) {
             }
         }
         global.fakeig = {
-            contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: "https://Instagram.com/rlxfly.uw", mediaType: "VIDEO", description: "https://Instagram.com/rlxfly.uw", title: 'Simple Bot Esm', body: me, thumbnailUrl: pp, sourceUrl: 'http://s.id/0x404' } }
+            contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: "https://Instagram.com/04ndaaaa", mediaType: "VIDEO", description: "https://Instagram.com/04ndaaaa", title: 'Simple Bot Esm', body: me, thumbnailUrl: pp, sourceUrl: 'http://s.id/0x404' } }
         }
         // Fake 🤥
         global.ftroli = { key: { remoteJid: 'status@broadcast', participant: '0@s.whatsapp.net' }, message: { orderMessage: { itemCount: 9999999999999999999999999999999999999999999999999999999, status: 1, surface: 1, message: me, orderTitle: me, sellerJid: '0@s.whatsapp.net' } } }
