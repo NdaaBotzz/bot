@@ -1,5 +1,5 @@
 {
-    "name": "Kitagawa_Marin_Bot",
+    "name": "NdaaBotzz",
     "version": "4.0.0",
     "description": "Simple WhatsApp Bot",
     "main": "index.js",
@@ -28,13 +28,13 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FahriAdison/New-WaBot",
+    "homepage": "https://github.com/NdaaBotzz/bot",
     "author": {
-        "name": "jhnspntx"
+        "name": "NdaaBotzz"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FahriAdison/New-WaBot.git"
+        "url": "https://github.com/NdaaBotzz/bot"
     },
     "bugs": {
         "url": "https://github.com/New-WaBot/issues"
