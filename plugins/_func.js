@@ -48,11 +48,6 @@ handler.all = async function (m) {
                     previewType: "PHOTO",
                     thumbnail: await(await fetch(marin)).buffer(),
                     sourceUrl: "https://chat.whatsapp.com/HIHR5czG24h0mXNExxzefq",
-                },
-                forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363272269077450@newsletter',
-                    newsletterName: '🔴 GABUNG CHANNEL KAMI',
-                    serverMessageId: 1945
                 }
             }
         }
